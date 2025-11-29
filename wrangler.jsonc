@@ -16,4 +16,11 @@
 		"id": "7cc3866542a54125a78cfd8a6f24ba79"
 		}
 	]
+  "analytics_engine_datasets": [
+    {
+      "binding": "analytics",
+      "dataset": "dataset"
+    }
+  ]
 }
+
